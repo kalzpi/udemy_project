@@ -122,3 +122,5 @@ dmypy.json
 
 #User Custom
 .env
+node_modules
+blueprint.txt
